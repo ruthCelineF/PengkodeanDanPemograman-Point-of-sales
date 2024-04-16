@@ -1,6 +1,7 @@
 
 # Sistem Point Of Sales
-    Project point of sales yang diambil dari github yang akan digunakan sebagai tolak ukur project
+
+Project point of sales atau kasir dilengkapi dengan proses tracking history penjualan di setiap hari , bulan atau tahun nya
 
 ### Referensi
 
@@ -17,8 +18,15 @@
 - Posisi 
     - Pada report view dirubah posisi table dimana yang diawal bersusun kebawah menjadi bersampingan menggunakan row col yang diberikan oleh boostrap
     
-![erd](https://ibb.co/WyTw7FT)
-[url-erd](https://ibb.co/WyTw7FT)
+![erd](https://i.ibb.co/6PdxGbd/image.png)
+[url-erd](https://i.ibb.co/6PdxGbd/image.png)
+
+
+### Perbandingan Perubahan
+
+[![image.png](https://i.postimg.cc/Vv54Z2h8/image.png)](https://postimg.cc/hQW9fZgy)
+
+
 
 
 

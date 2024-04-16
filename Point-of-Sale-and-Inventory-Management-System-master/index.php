@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="assets/css/Pricing-Centered-icons.css">
 </head>
 
-<body class="bg-gradient-primary">
+<body class="bg-gradient-secondary">
     <div class="container">
         <div class="text-center p-4 p-lg-5">
             <h1 class="fw-bold mb-4"><span style="color: rgb(255, 159, 14);">KYLE SHOE'S SHOP</span><span style="color: rgb(255, 255, 255);"> POINT OF SALE AND INVENTORY MANAGEMENT SYSTEM</span></h1>
