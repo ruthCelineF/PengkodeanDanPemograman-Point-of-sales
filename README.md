@@ -17,8 +17,8 @@
 - Posisi 
     - Pada report view dirubah posisi table dimana yang diawal bersusun kebawah menjadi bersampingan menggunakan row col yang diberikan oleh boostrap
     
-![erd](https://i.ibb.co/WyTw7FT/image.png)
-[url-erd](https://i.ibb.co/WyTw7FT/image.png)
+![erd](https://ibb.co/WyTw7FT)
+[url-erd](https://ibb.co/WyTw7FT)
 
 
 
