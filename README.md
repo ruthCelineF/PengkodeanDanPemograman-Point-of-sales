@@ -25,25 +25,25 @@ Project point of sales atau kasir dilengkapi dengan proses tracking history penj
 ### Perbandingan Perubahan
 
 [![image.png](https://i.postimg.cc/Vv54Z2h8/image.png)](https://postimg.cc/hQW9fZgy)
-[image.png](https://postimg.cc/V5qtKRzw)
+[!image.png](https://postimg.cc/V5qtKRzw)
 
-[image.png](https://postimg.cc/p9Kj3YKK)
-[image.png](https://postimg.cc/ftBVhHyS)
+[!image.png](https://postimg.cc/p9Kj3YKK)
+[!image.png](https://postimg.cc/ftBVhHyS)
 
-[image.png](https://postimg.cc/SjxXGp16)
-[image.png](https://postimg.cc/V5ZJGH23)
+[!image.png](https://postimg.cc/SjxXGp16)
+[!image.png](https://postimg.cc/V5ZJGH23)
 
-[image.png](https://postimg.cc/bsKs8Syg)
-[image.png](https://postimg.cc/NyxM1N1C)
+[!image.png](https://postimg.cc/bsKs8Syg)
+[!image.png](https://postimg.cc/NyxM1N1C)
 
-[image.png](https://postimg.cc/Hjnxy9j3)
-[image.png](https://postimg.cc/MMPpLv3y)
+[!image.png](https://postimg.cc/Hjnxy9j3)
+[!image.png](https://postimg.cc/MMPpLv3y)
 
-[image.png](https://postimg.cc/BjTQ0hwZ)
-[image.png](https://postimg.cc/qtQJtNT9)
+[!image.png](https://postimg.cc/BjTQ0hwZ)
+[!image.png](https://postimg.cc/qtQJtNT9)
 
-[image.png](https://postimg.cc/CBQwN9d7)
-[image.png](https://postimg.cc/Cd9Ffy3L)
+[!image.png](https://postimg.cc/CBQwN9d7)
+[!image.png](https://postimg.cc/Cd9Ffy3L)
 
 
 
